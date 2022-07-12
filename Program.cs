@@ -36,7 +36,7 @@ namespace T04Ejercicio23
                     Console.WriteLine("El resultado de A%B es: " + (a % b));
                     break;
                 default:
-                    Console.WriteLine("No ha escrito la operación correctamente.");
+                    Console.WriteLine("No ha escrito el signo correctamente.");
                     break;
             }
         }
